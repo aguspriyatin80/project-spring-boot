@@ -1,0 +1,9 @@
+com/belajar/springboot/model/Supplier.class
+com/belajar/springboot/payload/ProductPayload.class
+com/belajar/springboot/payload/ErrorResponse.class
+com/belajar/springboot/SpringbootApplication.class
+com/belajar/springboot/payload/SalePayload.class
+com/belajar/springboot/controller/SupplierController.class
+com/belajar/springboot/payload/MemberPayload.class
+com/belajar/springboot/repository/SupplierRepo.class
+com/belajar/springboot/payload/SupplierPayload.class
